@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shivansh31414
 - 👀 I’m interested in AI/ML and Web development
-- 🌱 I’m currently learning React python and much more
+- 🌱 I’m currently learning GenAI streamlit ml dl and more
 - 💞️ I’m looking to collaborate on Learning opportunity in these fields
-- 📫 How to reach me on my twitter https://x.com/shivanshsh1823
+- 📫 you can  reach me on my twitter https://x.com/shivanshsh1823
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Male seahorse can also lay eggs
 
