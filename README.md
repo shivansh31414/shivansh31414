@@ -9,7 +9,6 @@
 
 ## Featured work (highlighted repositories)
 
-> Below I’ve added a **project summary** for each repo (what it does + key features), along with the **PR contributions** you listed.
 
 ---
 
