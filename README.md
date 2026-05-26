@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivansh31414" alt="shivansh31414" /></a> </p>
 
-- 🔭 I’m currently working on [AI_INVENTORY_TRACKER_MSME](https://github.com/shivansh31414/AI_INVENTORY_TRACKER_MSME)
+
 
 - 🌱 I’m currently learning **Azure, computer vision , docker**
 
